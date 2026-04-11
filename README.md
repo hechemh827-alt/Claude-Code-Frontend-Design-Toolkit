@@ -2,7 +2,7 @@
 
 Everything I've found that actually makes Claude Code output better-looking frontends. Skills, plugins, MCP servers, CLAUDE.md tricks, organized by what you're trying to do.
 
-`February 2026` · `70+ tools` · `10 sections`
+`April 2026` · `70+ tools` · `10 sections`
 
 If this is useful, star it so others can find it. PRs welcome — see [Contributing](#contributing).
 
@@ -49,7 +49,7 @@ What changes:
 
 Install this first. Everything else on this list assumes you have it.
 
-### UI/UX Pro Max — 16.9k stars
+### UI/UX Pro Max — 62.6k stars
 
 240+ styles, 127 font pairings, 99 UX guidelines. Tell it "fintech dashboard" and it picks a design system that makes sense for fintech. The v2.0 reasoning engine does the style matching automatically.
 
